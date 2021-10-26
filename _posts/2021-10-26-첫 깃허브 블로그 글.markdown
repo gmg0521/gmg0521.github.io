@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "나의 첫 깃허브 블로그"
-date: 2021-10-26 04:06:33 +0900
+date: 2021-10-26 04:06:33
 categories: Note
 ---
 
